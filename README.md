@@ -1,15 +1,15 @@
-## Braulio Alberto Bueno Pabón
-_"Cuando quieres una cosa, todo el Universo conspira para ayudarte a conseguirla"._
-
 ## About me
-I'm a creative person. Always I like to learn new things.
-I have done developed differents projects using PHP and Laravel. 
+My favorite phrase: _"Cuando quieres una cosa, todo el Universo conspira para ayudarte a conseguirla"._
 
-- 🗣️ I’m currently learning English, I want to be in C2:
+I'm a Platzi Student, I'm a creative person and always i like to learn new things.
+
+I have experience in PHP and Laravel, i have done developed two projects using PHP and Laravel, you can see this in my repositories ([SatNet](https://github.com/babuenop/SatNet), [Clinica](https://github.com/babuenop/Clinica))
+
+- 🗣️ I’m currently learning English, I want to be in Level C2:
   - 📕 _A1 Basic Starter - Marzo 2020_
   - 📕 _A2 Basic Elementary - Julio 2020_
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking to collaborate on some project opensource. 
 
 
 <!--
