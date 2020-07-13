@@ -1,5 +1,5 @@
 ## About me
-My favorite phrase: _"Cuando quieres una cosa, todo el Universo conspira para ayudarte a conseguirla"._
+My favorite phrase: _"When you want something, the whole universe conspires to help you get it"._
 
 I'm a Platzi Student, I'm a creative person and always i like to learn new things.
 
