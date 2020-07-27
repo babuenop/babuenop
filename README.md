@@ -5,7 +5,7 @@ I'm a Platzi Student, I'm a creative person and always i like to learn new thing
 
 I have experience in PHP and Laravel, i have done developed two projects using PHP and Laravel, you can see this in my repositories ([SatNet](https://github.com/babuenop/SatNet), [Clinica](https://github.com/babuenop/Clinica))
 
-- 🗣️ I’m currently learning English, I want to be in Level C2:
+- 🗣️ I’m currently learning English, I want to become in a good speaker
   - 📕 _A1 Basic Starter - Marzo 2020_
   - 📕 _A2 Basic Elementary - Julio 2020_
 
