@@ -9,7 +9,7 @@ I have experience in PHP and Laravel, i have done developed two projects using P
   - 📕 _A1 Basic Starter - Marzo 2020_
   - 📕 _A2 Basic Elementary - Julio 2020_
 
-- 🤔 I’m learning Javascript
+- 🤔 I’m learning Javascript and Python
 
 - :computer: I’m teaching programming for child, you can see the project on Instagram as [@techsoft](https://www.instagram.com/teachsoft/)
 
